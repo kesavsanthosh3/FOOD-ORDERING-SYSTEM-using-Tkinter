@@ -12,6 +12,14 @@ According to this concept, a consumer would visit the restaurant's app or websit
 ![image](https://user-images.githubusercontent.com/95330456/224529441-9907bf0c-d9c2-46e6-a51b-255e229fe68a.png)
 
 ### SQL TABLES
-
+#### FOOD ITEMS
+![image](https://user-images.githubusercontent.com/95330456/224529510-a6afe669-88e1-4c37-9ea3-a72f5642f4b9.png)
+#### CUSTOMERS
+![image](https://user-images.githubusercontent.com/95330456/224529725-75941c0d-5981-463e-a357-c1cf5581ee0b.png)
+#### FEEDBACK
+![image](https://user-images.githubusercontent.com/95330456/224529604-aaf67168-60b9-4996-8e16-0b1ce048c3db.png)
+#### OTP TABLE
+![image](https://user-images.githubusercontent.com/95330456/224529638-5bb950e7-53c9-4d01-8d99-40d418856e8a.png)
 ### PYTHON CODE
+
 ### OUTPUT
