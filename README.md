@@ -8,6 +8,22 @@ Before the Covid crisis, everything in the working areas was manual. Everything 
 A straightforward and practical method for clients to order meals online without having to physically visit the restaurant is the online food ordering system. The internet is what makes this arrangement possible; it is the medium that links the client and the restaurant or food provider.
 According to this concept, a consumer would visit the restaurant's app or website, browse through the many food items, combinations, and cuisines offered, and then proceed to choose and buy the stuff they require. A delivery worker will then bring these things to the customer's doorstep at the time of their choosing.
 
+### OUTPUT SCREENSHOTS
+#### Login Page
+![image](https://user-images.githubusercontent.com/95330456/224529973-b2bf5e2e-520c-4a39-bbe1-7b3a4353e778.png)
+#### Signup Page
+![image](https://user-images.githubusercontent.com/95330456/224529996-fdf0e96d-1a72-4c82-9990-e5b77d50e98a.png)
+#### Add Food Item
+![image](https://user-images.githubusercontent.com/95330456/224530059-ad10f8e6-1f35-4b3f-bbac-b599770ac4ae.png)
+#### Order Details
+![image](https://user-images.githubusercontent.com/95330456/224530099-d127611a-e806-4e4e-9b08-cc8692d9dc72.png)
+#### Payment
+![image](https://user-images.githubusercontent.com/95330456/224530127-172230aa-e492-4c83-980d-fe5cd9ab0287.png)
+#### Payment Successful
+![image](https://user-images.githubusercontent.com/95330456/224530169-84b4f3a0-08f6-4966-8137-810ae66a29ba.png)
+#### Feedback
+![image](https://user-images.githubusercontent.com/95330456/224530207-af57a824-bf3e-4551-86dc-b6f6bd709c9d.png)
+
 ### STRUCTURE OF MYSQL TABLES
 ![image](https://user-images.githubusercontent.com/95330456/224529441-9907bf0c-d9c2-46e6-a51b-255e229fe68a.png)
 
@@ -20,6 +36,4 @@ According to this concept, a consumer would visit the restaurant's app or websit
 ![image](https://user-images.githubusercontent.com/95330456/224529604-aaf67168-60b9-4996-8e16-0b1ce048c3db.png)
 #### OTP TABLE
 ![image](https://user-images.githubusercontent.com/95330456/224529638-5bb950e7-53c9-4d01-8d99-40d418856e8a.png)
-### PYTHON CODE
 
-### OUTPUT
