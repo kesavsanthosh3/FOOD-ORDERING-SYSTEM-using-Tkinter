@@ -7,3 +7,11 @@ Before the Covid crisis, everything in the working areas was manual. Everything 
 ### Introduction
 A straightforward and practical method for clients to order meals online without having to physically visit the restaurant is the online food ordering system. The internet is what makes this arrangement possible; it is the medium that links the client and the restaurant or food provider.
 According to this concept, a consumer would visit the restaurant's app or website, browse through the many food items, combinations, and cuisines offered, and then proceed to choose and buy the stuff they require. A delivery worker will then bring these things to the customer's doorstep at the time of their choosing.
+
+### STRUCTURE OF MYSQL TABLES
+![image](https://user-images.githubusercontent.com/95330456/224529441-9907bf0c-d9c2-46e6-a51b-255e229fe68a.png)
+
+### SQL TABLES
+
+### PYTHON CODE
+### OUTPUT
