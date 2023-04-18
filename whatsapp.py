@@ -11,7 +11,7 @@ c=""
 for i in b:
     c+=i
 print(c)    
-con=myconnect.connect(host='localhost',user='root',password='kesavmelo2002',database='food')
+con=myconnect.connect(host='localhost',user='root',password='',database='food')
 # datetime object containing current date and time
 now = datetime.now()
 
