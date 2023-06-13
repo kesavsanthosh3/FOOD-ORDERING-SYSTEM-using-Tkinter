@@ -1,6 +1,8 @@
 # FOOD-ORDERING-SYSTEM-using-Tkinter
 Food Ordering System using Tkinter-Python and other python libraries
 
+![image](https://github.com/kesavsanthosh3/FOOD-ORDERING-SYSTEM-using-Tkinter/assets/95330456/d35172db-beaa-45e2-b2fb-93e349520491)
+
 ### Abstract
 Before the Covid crisis, everything in the working areas was manual. Everything is online right now. So, we are attempting to make food management available online through this initiative. Through this project ” Online food ordering system ” we are providing a platform for users to order food online with less time and efforts. The platform uses computers to channelize, record, store, and modify the transaction. That is even simpler than placing a takeout order at a restaurant or motel. Today's computers are dependable and there is no danger of duplication, so working will go more smoothly.Compared to the book approach, there is less turmoil and confusion while utilising the online system.
 
